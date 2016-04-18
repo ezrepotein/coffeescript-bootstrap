@@ -1,0 +1,25 @@
+{
+  "name": "coffeescript-bootstrap",
+  "version": "1.0.0",
+  "description": "Basic template for easy and pleasant CoffeeScript (CS) development.",
+  "main": "index.html",
+  "scripts": {
+    "start": "coffee -o js/ -mcw coffee/",
+    "build": "coffee -o js/ -c coffee/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezrepotein/coffeescript-bootstrap.git"
+  },
+  "author": "Adam Urban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezrepotein/coffeescript-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ezrepotein/coffeescript-bootstrap#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
