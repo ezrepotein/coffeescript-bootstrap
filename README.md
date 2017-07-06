@@ -1,5 +1,7 @@
 ## CoffeeScript Bootstrap
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezpn/coffeescript-bootstrap.svg)](https://greenkeeper.io/)
+
 Basic template for easy and pleasant CoffeeScript (CS) development. It includes the
 following
 scripts:
